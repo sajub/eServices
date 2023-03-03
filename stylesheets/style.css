@@ -10,6 +10,10 @@
 }
 /* Global CSS Setting End */
 
+body{
+    height: 100vh;
+    width: 100vw;
+}
 /* Navigation Bar Start */
 .head-bar{
     margin-top: 50px;
